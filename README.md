@@ -1,4 +1,4 @@
-- 👋 Hi There, I’m @ullas9525
+- 👋 Hi There, I’m ullas9525
 - I'm passionate about Coding and always eager to learn New Technologies.
   
 - ## 🚀 About Me:
