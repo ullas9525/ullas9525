@@ -9,13 +9,13 @@
  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58F16E&center=true&width=500&lines=Passionate+about+Coding+%F0%9F%92%BB;Always+eager+to+learn+new+Tech+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58F16E&center=true&width=500&lines=Engineer+in+progress+%F0%9F%9A%80;Building+the+future%2C+one+code+at+a+time." />
 
 </div>
 
 ---
 
-# 👋 Hi There, I'm Ullas
+# 👋 Hi There, I'm Ullas B R
 
 # 🚀 About Me:
 
@@ -28,7 +28,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ullas9525.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ullas-b-r-624a29294) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullasbr.2005@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ullas9525)
 
 # 💻 Tech Stack:
 
@@ -36,15 +36,15 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ullas9525&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=ullas9525&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullas9525&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=ullas9525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
