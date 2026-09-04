@@ -46,6 +46,10 @@
 
 ![](https://github-trophies.vercel.app/?username=ullas9525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ullas_9525?theme=dark&font=Fira+Code&ext=heatmap)
+
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
