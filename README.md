@@ -46,8 +46,7 @@
 
 ![](https://github-trophies.vercel.app/?username=ullas9525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## [![LeetCode](https://shields.io)](https://leetcode.com)
- LeetCode Stats
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="25" height="25"/> LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ullas_9525?theme=dark&font=Fira+Code&ext=heatmap)
 
