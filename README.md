@@ -48,7 +48,7 @@
 
 ## <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="25" height="25"/> LeetCode Stats
 
-## 🧩 LeetCode Stats![Ullas_9525's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ullas_9525)
+![Ullas_9525's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ullas_9525)
 
 ## ✍️ Random Dev Quote
 
