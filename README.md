@@ -48,7 +48,9 @@
 
 ## <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="25" height="25"/> LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/svg?username=Ullas_9525&theme=dark&showBorder=true)
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ullas_9525?theme=dark&font=Fira+Code&ext=heatmap)
 
 ## ✍️ Random Dev Quote
 
